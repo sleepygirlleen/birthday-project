@@ -85,8 +85,8 @@ const CONFIG = {
       lines: [
         "Dear Rachel,",
         " ",
-        "Thank you for becoming one of my biggest fan 😊",
-        "Because of you, i can become who i am right now",
+        "Thank you for becoming one of my biggest fans 😊",
+        "Because of you, I’ve become who I am today.",
         "Let’s be friends for the next 1, 5, or maybe even 15 years! 😆",
         "Once again, happy birthday to one of my special person in this world! <span>:)</span>",
         " ",
